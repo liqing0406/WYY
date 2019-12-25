@@ -7,9 +7,9 @@ ul,li{
 	text-align: center;
 }
 .box1{
-	width:1500 px;
+	width:1000px;
 	height: 70px;
-	margin-left: 700px;
+	margin:0 auto;
 	color: gray;
 }
 .box{
